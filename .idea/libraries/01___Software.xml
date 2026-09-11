@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="01 - Software">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/01 - Software/selenium-server-4.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/01 - Software/testng-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/01 - Software/chromedriver-win64.zip!/" />
+      <root url="jar://$PROJECT_DIR$/01 - Software/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
